@@ -1,4 +1,7 @@
 -- Jim's Rolling Harrier / Rifle Roll Trainer
+-- place script into your SCRIPTS/TOOLS folder
+-- Touching anywhere on your screen swaps between Rolling Harrier and Rifle Roll Mode
+-- Rifle Roll mode has shorter throws for success and an overshoot means fail
 
 ----------------------------------------------------------
 -- MODES
