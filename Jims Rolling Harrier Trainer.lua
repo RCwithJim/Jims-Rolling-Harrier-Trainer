@@ -2,7 +2,8 @@
 -- place script into your SCRIPTS/TOOLS folder
 -- Touching anywhere on your screen swaps between Rolling Harrier and Rifle Roll Mode
 -- Rifle Roll mode has shorter throws for success and an overshoot means fail
--- If your active model has excessive trim it may cause an issue. If so make a new model with no trim.
+-- If your active model has excessive trim it may cause an issue. If so make a new model with no trim. 
+-- My setup was AETR, you may have to invert a channel to make it work correctly 
 
 ----------------------------------------------------------
 -- MODES
